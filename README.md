@@ -18,6 +18,13 @@ A newly engineered adaptive mounting system that converts destructive wave impac
 A maintenance-free hydraulic system that replaces mechanical bearings, passively maintaining precise rotor alignment for maximum generator efficiency and a long lifetime.
 5. Skoog Azimuth-DALAS Propulsion
 A dual-unit system of steerable, ducted propulsion units based on the same uni-directional Skoog DALAS geometry. Mounted at each bow of the submerged module, it maximizes thrust and minimizes noise while providing active force-vectoring.
+The Skoog Tacking Principle
+The architecture introduces a novel hydrodynamic navigation method that eliminates traditional rudder drag through active force-vectoring.
+Active Force-Vectoring: Utilizes dual Azimuth-DALAS units to position the hull at a 30° to 40° attack angle relative to the wave field.
+Constant Crabbing: Enables the vessel to maintain a "sweet spot" of energy density by decoupling the heading from its track.
+Standalone Functionality: The S.K.O.O.G. architecture is a fully standalone system. The Tacking Principle ensures a net-positive energy balance (calculated at 2–3 MW) through its core features.
+Future Optimization
+Future research may explore variable bow geometries for additional efficiency gains; however, these are not a requirement for the primary functionality of the Skoog Tacking Principle. These modular upgrades offer a path for further optimization of laminar inflow during high-angle-of-attack maneuvers.
 Technical Calculations & Power Estimates
 The turbine power is calculated using the actuator disk formulation, adapted for array geometry and duct-assisted flow concentration:
 Calculation Formula:
