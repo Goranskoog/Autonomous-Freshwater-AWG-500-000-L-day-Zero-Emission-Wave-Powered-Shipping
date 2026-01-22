@@ -41,6 +41,8 @@ Scenario 1 (1.0 m/s effective inflow): 1.9 MW
 Scenario 2 (1.1 m/s effective inflow): 2.3 MW
 Scenario 3 (1.15 m/s effective inflow): 2.6 MW
 Scenario 4 (1.2 m/s effective inflow): 3.0 MW
+
+
 Citation & DOI
 If you use this research or the S.K.O.O.G. architecture in your work, please cite it as follows:
 DOI: 10.5281/zenodo.17552757
