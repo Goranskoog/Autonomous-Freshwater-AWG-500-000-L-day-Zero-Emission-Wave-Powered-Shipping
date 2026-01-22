@@ -18,7 +18,8 @@ A newly engineered adaptive mounting system that converts destructive wave impac
 A maintenance-free hydraulic system that replaces mechanical bearings, passively maintaining precise rotor alignment for maximum generator efficiency and a long lifetime.
 5. Skoog Azimuth-DALAS Propulsion
 A dual-unit system of steerable, ducted propulsion units based on the same uni-directional Skoog DALAS geometry. Mounted at each bow of the submerged module, it maximizes thrust and minimizes noise while providing active force-vectoring.
-The Skoog Tacking Principle
+
+6. The Skoog Tacking Principle
 The architecture introduces a novel hydrodynamic navigation method that eliminates traditional rudder drag through active force-vectoring.
 Active Force-Vectoring: Utilizes dual Azimuth-DALAS units to position the hull at a 30° to 40° attack angle relative to the wave field.
 Constant Crabbing: Enables the vessel to maintain a "sweet spot" of energy density by decoupling the heading from its track.
