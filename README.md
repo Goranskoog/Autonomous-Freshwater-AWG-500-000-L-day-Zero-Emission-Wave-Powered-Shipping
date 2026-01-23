@@ -62,4 +62,4 @@ Repository Status: Research Phase / Engineering Estimates
 License: Creative Commons Attribution 4.0 International
 
 Keywords:
-Zero-emission maritime propulsion, Skoog Kinetic Orbital Oscillating Generator, Wave energy harvesting, Autonomous cargo vessels, Skoog Tacking Principle, Force-vectoring navigation, Lift-optimized Archimedes screw (LFAS), Active ceramic antifouling (IAKKS), Passive hydrostatic stabilization (PHST), Net-positive energy maritime logistics, Orbital wave particle motion, Submerged cargo modules.
+Zero-emission maritime propulsion, Skoog Kinetic Orbital Oscillating Generator, Zero-fuel vessel, Antifouling coating,energy harvesting, Autonomous cargo vessels, Skoog Tacking Principle, Force-vectoring navigation, Lift-optimized Archimedes screw (LFAS), Active ceramic antifouling (IAKKS), Passive hydrostatic stabilization (PHST), Net-positive energy maritime logistics, Orbital wave particle motion, Submerged cargo modules.
