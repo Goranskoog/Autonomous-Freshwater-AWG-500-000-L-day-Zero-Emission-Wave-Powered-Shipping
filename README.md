@@ -1,5 +1,9 @@
 S.K.O.O.G. (Skoog Kinetic Orbital Oscillating Generator)
 The Skoog Architecture for Autonomous, Zero-Emission Maritime Propulsion
+
+Note on Documentation: The S.K.O.O.G. Architecture is a living engineering project. For the most recent updates, full technical specifications, and all associated innovations, please refer to the official verified documentation on Zenodo: https://doi.org/10.5281/zenodo.17552757
+
+
 The S.K.O.O.G. framework represents a fundamental paradigm shift in naval architecture, moving from traditional drag-minimization to a system optimized for net energy extraction. Developed under the Skoog Open Marine Technology (SOMT) initiative, this architecture enables zero-emission cargo transport by harvesting the kinetic energy of ocean wave fields and subsurface currents.
 Core Concept: The Skoog AWEV
 The Skoog Autonomous Wave Energy Vessel (AWEV) is the functional application of this architecture. Unlike conventional ships, the AWEV features a wave-permeable hull with internal channels that house multi-height turbines. It converts the bidirectional orbital motion of surface gravity waves and steady ocean gyre currents into continuous unidirectional thrust.
@@ -21,6 +25,7 @@ A dual-unit system of steerable, ducted propulsion units based on the same uni-d
 
 6. The Skoog Tacking Principle
 The architecture introduces a novel hydrodynamic navigation method that eliminates traditional rudder drag through active force-vectoring.
+
 Active Force-Vectoring: Utilizes dual Azimuth-DALAS units to position the hull at a 30° to 40° attack angle relative to the wave field.
 Constant Crabbing: Enables the vessel to maintain a "sweet spot" of energy density by decoupling the heading from its track.
 Standalone Functionality: The S.K.O.O.G. architecture is a fully standalone system. The Tacking Principle ensures a net-positive energy balance (calculated at 2–3 MW) through its core features.
