@@ -1,5 +1,5 @@
 # S.K.O.O.G. Architecture & SCSL Infrastructure  
-## Autonomous Offshore Systems for Freshwater Security and Zero-Emission Maritime Propulsion  
+##  Freshwater for All: Mechanical AWG (12,000L/day) & Zero-Emission Wave-Powered Shipping
 **Skoog Open Marine Technology (SOMT)**  
 
 The S.K.O.O.G. framework is a unified offshore infrastructure architecture developed to address two critical global challenges:
