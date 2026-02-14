@@ -1,65 +1,189 @@
-S.K.O.O.G. (Skoog Kinetic Orbital Oscillating Generator)
-The Skoog Architecture for Autonomous, Zero-Emission Maritime Propulsion
+# S.K.O.O.G. Architecture & SCSL Infrastructure  
+## Autonomous Offshore Systems for Freshwater Security and Zero-Emission Maritime Propulsion  
+**Skoog Open Marine Technology (SOMT)**  
 
-Note on Documentation: The S.K.O.O.G. Architecture is a living engineering project. For the most recent updates, full technical specifications, and all associated innovations, please refer to the official verified documentation on Zenodo: https://doi.org/10.5281/zenodo.17552757
+The S.K.O.O.G. framework is a unified offshore infrastructure architecture developed to address two critical global challenges:
 
+1. Lack of stable access to clean freshwater  
+2. Fossil-fuel dependent maritime transport  
 
-The S.K.O.O.G. framework represents a fundamental paradigm shift in naval architecture, moving from traditional drag-minimization to a system optimized for net energy extraction. Developed under the Skoog Open Marine Technology (SOMT) initiative, this architecture enables zero-emission cargo transport by harvesting the kinetic energy of ocean wave fields and subsurface currents.
-Core Concept: The Skoog AWEV
-The Skoog Autonomous Wave Energy Vessel (AWEV) is the functional application of this architecture. Unlike conventional ships, the AWEV features a wave-permeable hull with internal channels that house multi-height turbines. It converts the bidirectional orbital motion of surface gravity waves and steady ocean gyre currents into continuous unidirectional thrust.
-Key Architectural Principles
-Hydrodynamic Tacking: The vessel does not always follow the shortest geographic path. Instead, an AI-driven routing system navigates the energy-rich zones of the ocean, tacking through wave fields to maximize energy density.
-The Hydrodynamic Keel: The submerged, ballast-stabilized cargo module acts as a keel. This provides the necessary lateral resistance to ensure wave energy is discharged through the turbines rather than pushing the hull sideways.
-Bi-Directional Operation: The symmetrical hull design with dual bows eliminates the need for energy-consuming U-turns, allowing for maximum operational efficiency in any sea state.
-Integrated Skoog Technologies
-1. Skoog LFAS (Lift-optimized Archimedes Screw)
-The LFAS is a lift-based turbine featuring a continuous radial twist and airfoil profiling. It is designed to maintain a near-constant lift coefficient (Cl \approx 1.2) across the radius. This configuration removes the "stop-effect" inherent in many oscillating systems and increases energy extraction across both wave phases.
-2. Skoog IAKKS (Active Ceramic Composite Coating)
-An active ceramic composite coating system inspired by brake pad technology. It features a theoretical projected service life of 20 years and near-zero fouling under controlled electro-active operation, eliminating toxic antifouling paints while maintaining a hydraulically smooth surface.
-3. Skoog DALAS (Dynamically Adaptive Lift-force System)
-A newly engineered adaptive mounting system that converts destructive wave impacts into linear energy, eliminating the "stopping effect" and protecting the turbines while adding extra electricity production during storms.
-4. Skoog PHST (Passive Hydrostatic Stabilization)
-A maintenance-free hydraulic system that replaces mechanical bearings, passively maintaining precise rotor alignment for maximum generator efficiency and a long lifetime.
-5. Skoog Azimuth-DALAS Propulsion
-A dual-unit system of steerable, ducted propulsion units based on the same uni-directional Skoog DALAS geometry. Mounted at each bow of the submerged module, it maximizes thrust and minimizes noise while providing active force-vectoring.
+The architecture integrates:
 
-6. The Skoog Tacking Principle
-The architecture introduces a novel hydrodynamic navigation method that eliminates traditional rudder drag through active force-vectoring.
+- Offshore freshwater production from air (SCSL)  
+- Zero-emission wave-energy maritime propulsion (S.K.O.O.G.)  
 
-Active Force-Vectoring: Utilizes dual Azimuth-DALAS units to position the hull at a 30° to 40° attack angle relative to the wave field.
-Constant Crabbing: Enables the vessel to maintain a "sweet spot" of energy density by decoupling the heading from its track.
-Standalone Functionality: The S.K.O.O.G. architecture is a fully standalone system. The Tacking Principle ensures a net-positive energy balance (calculated at 2–3 MW) through its core features.
-Future Optimization
-Future research may explore variable bow geometries for additional efficiency gains; however, these are not a requirement for the primary functionality of the Skoog Tacking Principle. These modular upgrades offer a path for further optimization of laminar inflow during high-angle-of-attack maneuvers.
-Technical Calculations & Power Estimates
-The turbine power is calculated using the actuator disk formulation, adapted for array geometry and duct-assisted flow concentration:
-Calculation Formula:
-P_net = (0.5 * rho * A_total * V_eff^3 * Cp) * eta_system
-Parameters:
-rho: Water density (1,025 kg/m³)
-A_total: Combined active swept area (≈ 1,960 m² for the 25-unit configuration)
-V_eff: Effective inflow velocity (combined speed of rectified orbital wave motion and subsurface currents)
-Cp: Turbine power coefficient (Conservatively estimated at 0.35–0.40)
-eta_system: Overall system efficiency accounting for array interaction and conversion
-Net Continuous Output Scenarios:
-Scenario 1 (1.0 m/s effective inflow): 1.9 MW
-Scenario 2 (1.1 m/s effective inflow): 2.3 MW
-Scenario 3 (1.15 m/s effective inflow): 2.6 MW
-Scenario 4 (1.2 m/s effective inflow): 3.0 MW
+Both systems operate through passive exploitation of natural oceanic and solar gradients.
 
+---
 
-Citation & DOI
-If you use this research or the S.K.O.O.G. architecture in your work, please cite it as follows:
-DOI: 10.5281/zenodo.17552757
-URL: https://doi.org/10.5281/zenodo.17552757
-Reference:
-Skoog, G. (2025). S.K.O.O.G. (Skoog Kinetic Orbital Oscillating Generator): Zero-Emission Wave-Energy Vessel featuring Skoog LFAS and Skoog IAKKS Ultra-Durable Coating. Zenodo.
-Contact & Contribution
-The Skoog Open Marine Technology (SOMT) initiative facilitates the development and open-source sharing of these innovations to advance sustainable, maintenance-free maritime propulsion.
+# 1. Primary Mission – Freshwater Security
+
+The foremost purpose of this architecture is to provide **stable, autonomous access to clean freshwater for regions without reliable supply**.
+
+The system is designed to function offshore and independently of:
+
+- Electrical grids  
+- Fuel logistics  
+- Chemical desalination membranes  
+- Large mechanical infrastructure  
+
+Intended deployment regions include:
+
+- Island nations dependent on vulnerable desalination systems  
+- Coastal regions affected by groundwater salinization  
+- Arid coastal deserts  
+- Climate-exposed communities  
+- Disaster-prone regions requiring resilient infrastructure  
+
+The objective is thermodynamic stability rather than energy-intensive processing.
+
+---
+
+# 2. SCSL – Skoog Capillary Sweating Liana  
+## Offshore Industrial Freshwater Production from Air
+
+Official Research Publication:  
+https://doi.org/10.5281/zenodo.18483339  
+
+The Skoog Capillary Sweating Liana (SCSL) is a biomimetic offshore freshwater infrastructure using:
+
+- Deep-sea cold (~4°C at 1,000 m depth)  
+- Solar-driven natural updraft  
+- Wave-powered hydraulic circulation  
+
+No external electrical energy is required for the primary thermodynamic cycle.
+
+### Operating Principle
+
+A 1,000-meter closed HDPE circulation loop accesses stable deep-sea cold.  
+A spar buoy with an integrated solar chimney drives airflow.  
+Atmospheric humidity condenses on a passive capillary matrix surrounding the cold line.  
+
+Latent heat released during condensation is internally recovered to improve system efficiency.
+
+Freshwater discharge occurs through:
+
+- Solar heating to ~30°C  
+- Controlled hydrostatic expansion (0.43%)  
+- Passive pressure-driven export  
+
+### Design Parameters
+
+- Structural lifespan: 30–50 years  
+- Battery buffer (control + redundancy): 10–15 years  
+- Dark encapsulated matrix to eliminate algae growth  
+- IAKKS surface protection for long-term anti-adhesion performance  
+
+The system produces ultrapure freshwater suitable for drinking water, agriculture, and hydrogen electrolysis.
+
+---
+
+# 3. S.K.O.O.G. Maritime Architecture  
+## Zero-Emission Wave-Energy Vessel
+
+Official Research Publication:  
+https://zenodo.org/records/17552757  
+
+S.K.O.O.G. (Skoog Kinetic Orbital Oscillating Generator) represents a shift in naval architecture from drag minimization to net energy extraction.
+
+The architecture harvests:
+
+- Orbital wave particle motion  
+- Subsurface ocean currents  
+
+to generate thrust and electrical output.
+
+---
+
+## The Skoog Autonomous Wave Energy Vessel (AWEV)
+
+A wave-permeable hull with internal multi-height turbine channels converts bidirectional wave motion into continuous unidirectional thrust.
+
+Integrated systems include:
+
+- Skoog LFAS (Lift-optimized Archimedes Screw)  
+- Skoog DALAS (Dynamically Adaptive Lift-force System)  
+- Skoog PHST (Passive Hydrostatic Stabilization)  
+- Skoog IAKKS (Active Ceramic Composite Coating)  
+- The Skoog Tacking Principle (hydrodynamic energy-optimizing routing)  
+
+---
+
+## Estimated Net Continuous Output (25-Unit Configuration)
+
+Actuator disk formulation adapted for array geometry:
+
+P_net = (0.5 × ρ × A_total × V_eff³ × Cp) × η_system  
+
+Approximate outputs:
+
+- 1.0 m/s effective inflow → ~1.9 MW  
+- 1.1 m/s effective inflow → ~2.3 MW  
+- 1.15 m/s effective inflow → ~2.6 MW  
+- 1.2 m/s effective inflow → ~3.0 MW  
+
+This enables zero-fuel propulsion and energy-positive maritime logistics.
+
+---
+
+# 4. Unified Offshore Systems Philosophy
+
+Both SCSL and S.K.O.O.G. share core engineering principles:
+
+- Passive exploitation of natural gradients  
+- Deep-sea thermal stability  
+- Solar thermodynamics  
+- Wave-powered circulation  
+- Minimal mechanical complexity  
+- Long-life corrosion-resistant materials  
+- Modular scalability  
+
+The architecture is infrastructure-based rather than product-based.
+
+Modules can be:
+
+- Clustered for large-scale freshwater production  
+- Integrated with offshore energy platforms  
+- Combined with autonomous cargo systems  
+- Deployed regionally for humanitarian resilience  
+
+---
+
+# 5. Applications
+
+## Primary – Water Stability
+
+- Freshwater security for vulnerable coastal populations  
+- Replacement of fragile desalination infrastructure  
+- Climate-resilient coastal systems  
+- Disaster-preparedness water supply  
+- Island autonomy  
+
+## Energy & Maritime
+
+- Zero-emission cargo transport  
+- Autonomous freight corridors  
+- Energy-positive ocean logistics  
+
+## Sustainable Development
+
+- Green hydrogen production (ultrapure feedwater)  
+- Regenerative coastal agriculture  
+- Eco-tourism without emissions or noise  
+- Offshore industrial freshwater supply  
+
+---
+
+# Documentation & Reference
+
+Freshwater Infrastructure (SCSL):  
+https://doi.org/10.5281/zenodo.18483339  
+
+Maritime Architecture (S.K.O.O.G.):  
+https://zenodo.org/records/17552757  
+
+Official Project Site:  
+https://www.skoogmarine.com  
+
+Initiative: Skoog Open Marine Technology (SOMT)  
 Project Lead: Göran Skoog
-Contact Email: Skoog.Goran@hotmail.com
-Repository Status: Research Phase / Engineering Estimates
-License: Creative Commons Attribution 4.0 International
-
-Keywords:
-Zero-emission maritime propulsion, Skoog Kinetic Orbital Oscillating Generator, Zero-fuel vessel, Antifouling coating,energy harvesting, Autonomous cargo vessels, Skoog Tacking Principle, Force-vectoring navigation, Lift-optimized Archimedes screw (LFAS), Active ceramic antifouling (IAKKS), Passive hydrostatic stabilization (PHST), Net-positive energy maritime logistics, Orbital wave particle motion, Submerged cargo modules.
