@@ -1,5 +1,5 @@
 # S.K.O.O.G. Architecture & SCSL Infrastructure  
-##  Freshwater for All: Mechanical AWG (12,000L/day) & Zero-Emission Wave-Powered Shipping
+##  Freshwater for All: Mechanical AWG (50,000L/day) & Zero-Emission Wave-Powered Shipping
 **Skoog Open Marine Technology (SOMT)**  
 
 The S.K.O.O.G. framework is a unified offshore infrastructure architecture developed to address two critical global challenges:
@@ -69,7 +69,7 @@ Freshwater discharge occurs through:
 
 ### Design Parameters
 
-- Structural lifespan: 30–50 years  
+- Structural lifespan: 40–50 years  
 - Battery buffer (control + redundancy): 10–15 years  
 - Dark encapsulated matrix to eliminate algae growth  
 - IAKKS surface protection for long-term anti-adhesion performance  
