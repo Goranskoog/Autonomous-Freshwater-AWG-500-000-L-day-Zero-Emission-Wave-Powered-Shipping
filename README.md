@@ -1,4 +1,4 @@
-# S.K.O.O.G. Architecture & SCSL Infrastructure  
+# S.K.O.O.G. Architecture & Skoog Buoy Capillary Sweating Liana (SCSL) Infrastructure  
 ##  Freshwater for All: Mechanical AWG (50,000L/day) & Zero-Emission Wave-Powered Shipping
 **Skoog Open Marine Technology (SOMT)**  
 
@@ -9,7 +9,7 @@ The S.K.O.O.G. framework is a unified offshore infrastructure architecture devel
 
 The architecture integrates:
 
-- Offshore freshwater production from air (SCSL)  
+- Offshore freshwater production from air, Skoog Buoy.
 - Zero-emission wave-energy maritime propulsion (S.K.O.O.G.)  
 
 Both systems operate through passive exploitation of natural oceanic and solar gradients.
@@ -39,13 +39,13 @@ The objective is thermodynamic stability rather than energy-intensive processing
 
 ---
 
-# 2. SCSL – Skoog Capillary Sweating Liana  
+# 2. SCSL – Skoog Buoy Capillary Sweating Liana  
 ## Offshore Industrial Freshwater Production from Air
 
 Official Research Publication:  
 https://doi.org/10.5281/zenodo.18483339  
 
-The Skoog Capillary Sweating Liana (SCSL) is a biomimetic offshore freshwater infrastructure using:
+The Skoog Buoy Capillary Sweating Liana (SCSL) is a biomimetic offshore freshwater infrastructure using:
 
 - Deep-sea cold (~4°C at 1,000 m depth)  
 - Solar-driven natural updraft  
@@ -128,7 +128,7 @@ This enables zero-fuel propulsion and energy-positive maritime logistics.
 
 # 4. Unified Offshore Systems Philosophy
 
-Both SCSL and S.K.O.O.G. share core engineering principles:
+Both Skoog Buoy and S.K.O.O.G. share core engineering principles:
 
 - Passive exploitation of natural gradients  
 - Deep-sea thermal stability  
