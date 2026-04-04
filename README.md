@@ -1,5 +1,5 @@
 # S.K.O.O.G. Architecture & Skoog Buoy Capillary Sweating Liana (SCSL) Infrastructure  
-##  Freshwater for All: Mechanical AWG (50,000L/day) & Zero-Emission Wave-Powered Shipping
+##  Freshwater for All: Mechanical AWG (500,000L/day) & Zero-Emission Wave-Powered Shipping
 **Skoog Open Marine Technology (SOMT)**  
 
 The S.K.O.O.G. framework is a unified offshore infrastructure architecture developed to address two critical global challenges:
@@ -65,7 +65,8 @@ Freshwater discharge occurs through:
 
 - Solar heating to ~30°C  
 - Controlled hydrostatic expansion (0.43%)  
-- Passive pressure-driven export  
+- Passive pressure-driven export
+- Latent heat recovery  
 
 ### Design Parameters
 
