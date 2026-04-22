@@ -1,190 +1,102 @@
-# S.K.O.O.G. Architecture & Skoog Buoy Capillary Sweating Liana (SCSL) Infrastructure  
-##  Freshwater for All: Mechanical AWG (500,000L/day) & Zero-Emission Wave-Powered Shipping
-**Skoog Open Marine Technology (SOMT)**  
+Industrial‑Scale Water From Air • Ocean‑Based Survival Protein • Zero‑Fuel Cargo Shipping
 
-The S.K.O.O.G. framework is a unified offshore infrastructure architecture developed to address two critical global challenges:
+S.K.O.O.G. Architecture – Skoog Buoy • Skoog Tablets • S.K.O.O.G. Harvester
+Skoog Open Marine Technology (SOMT)
 
-1. Lack of stable access to clean freshwater  
-2. Fossil-fuel dependent maritime transport  
+The S.K.O.O.G. architecture is an open‑source humanitarian technology suite designed to provide infrastructure‑independent water, survival protein, and maritime transport using only natural oceanic and solar gradients.
 
-The architecture integrates:
+The architecture integrates three systems:
 
-- Offshore freshwater production from air, Skoog Buoy.
-- Zero-emission wave-energy maritime propulsion (S.K.O.O.G.)  
+1. Skoog Buoy – industrial‑scale mechanical AWG (water from air)  
+2. Skoog Tablets – decentralized survival‑grade protein production  
+3. S.K.O.O.G. Harvester – zero‑fuel wave‑powered cargo propulsion  
 
-Both systems operate through passive exploitation of natural oceanic and solar gradients.
-
----
-
-# 1. Primary Mission – Freshwater Security
-
-The foremost purpose of this architecture is to provide **stable, autonomous access to clean freshwater for regions without reliable supply**.
-
-The system is designed to function offshore and independently of:
-
-- Electrical grids  
-- Fuel logistics  
-- Chemical desalination membranes  
-- Large mechanical infrastructure  
-
-Intended deployment regions include:
-
-- Island nations dependent on vulnerable desalination systems  
-- Coastal regions affected by groundwater salinization  
-- Arid coastal deserts  
-- Climate-exposed communities  
-- Disaster-prone regions requiring resilient infrastructure  
-
-The objective is thermodynamic stability rather than energy-intensive processing.
+All systems are electricity‑free, fuel‑free, and designed for low‑infrastructure environments.
 
 ---
 
-# 2. SCSL – Skoog Buoy Capillary Sweating Liana  
-## Offshore Industrial Freshwater Production from Air
+1. Freshwater Security – Skoog Buoy
 
-Official Research Publication:  
-https://doi.org/10.5281/zenodo.18483339  
+Skoog Buoy is a mechanical Atmospheric Water Generator (AWG) concept capable of producing large volumes of freshwater using:
 
-The Skoog Buoy Capillary Sweating Liana (SCSL) is a biomimetic offshore freshwater infrastructure using:
+- deep‑ocean cooling  
+- solar‑driven convection  
+- capillary condensation  
+- passive hydrodynamics  
 
-- Deep-sea cold (~4°C at 1,000 m depth)  
-- Solar-driven natural updraft  
-- Wave-powered hydraulic circulation  
+No electricity.  
+No filters.  
+No chemicals.  
+No moving parts.
 
-No external electrical energy is required for the primary thermodynamic cycle.
+Designed for:
 
-### Operating Principle
+- coastal communities  
+- drought‑affected regions  
+- humanitarian response  
+- decentralized water independence  
 
-A 1,000-meter closed HDPE circulation loop accesses stable deep-sea cold.  
-A spar buoy with an integrated solar chimney drives airflow.  
-Atmospheric humidity condenses on a passive capillary matrix surrounding the cold line.  
-
-Latent heat released during condensation is internally recovered to improve system efficiency.
-
-Freshwater discharge occurs through:
-
-- Solar heating to ~30°C  
-- Controlled hydrostatic expansion (0.43%)  
-- Passive pressure-driven export
-- Latent heat recovery  
-
-### Design Parameters
-
-- Structural lifespan: 40–50 years  
-- Battery buffer (control + redundancy): 10–15 years  
-- Dark encapsulated matrix to eliminate algae growth  
-- IAKKS surface protection for long-term anti-adhesion performance  
-
-The system produces ultrapure freshwater suitable for drinking water, agriculture, and hydrogen electrolysis.
+Full technical documentation (open source):  
+https://doi.org/10.5281/zenodo.18483339
 
 ---
 
-# 3. S.K.O.O.G. Maritime Architecture  
-## Zero-Emission Wave-Energy Vessel
+2. Survival Protein Production – Skoog Tablets
 
-Official Research Publication:  
-https://zenodo.org/records/17552757  
+Skoog Tablets (SCLS) is an open‑source, electricity‑free system designed to produce survival‑grade protein in approximately 72 hours using:
 
-S.K.O.O.G. (Skoog Kinetic Orbital Oscillating Generator) represents a shift in naval architecture from drag minimization to net energy extraction.
+- seawater  
+- sunlight  
+- a standard 20‑liter jerrycan  
 
-The architecture harvests:
+The system uses a three‑tablet sequence with geometric coding:
 
-- Orbital wave particle motion  
-- Subsurface ocean currents  
+- Day 1 – START‑SEED (round)  
+- Day 2 – GROWTH‑SEED (square)  
+- Day 3 – FINISH‑SEED (triangle)  
 
-to generate thrust and electrical output.
+Built‑in safety features include:
 
----
+- pH‑indicator  
+- taste‑barrier  
+- thermal final treatment  
 
-## The Skoog Autonomous Wave Energy Vessel (AWEV)
+Designed for crisis environments where infrastructure has collapsed, enabling local, independent protein production for survival in:
 
-A wave-permeable hull with internal multi-height turbine channels converts bidirectional wave motion into continuous unidirectional thrust.
+- war zones  
+- blockades  
+- disaster areas  
+- isolated coastal communities  
 
-Integrated systems include:
-
-- Skoog LFAS (Lift-optimized Archimedes Screw)  
-- Skoog DALAS (Dynamically Adaptive Lift-force System)  
-- Skoog PHST (Passive Hydrostatic Stabilization)  
-- Skoog IAKKS (Active Ceramic Composite Coating)  
-- The Skoog Tacking Principle (hydrodynamic energy-optimizing routing)  
-
----
-
-## Estimated Net Continuous Output (25-Unit Configuration)
-
-Actuator disk formulation adapted for array geometry:
-
-P_net = (0.5 × ρ × A_total × V_eff³ × Cp) × η_system  
-
-Approximate outputs:
-
-- 1.0 m/s effective inflow → ~1.9 MW  
-- 1.1 m/s effective inflow → ~2.3 MW  
-- 1.15 m/s effective inflow → ~2.6 MW  
-- 1.2 m/s effective inflow → ~3.0 MW  
-
-This enables zero-fuel propulsion and energy-positive maritime logistics.
+Full technical documentation (open source):  
+https://zenodo.org/records/19650438
 
 ---
 
-# 4. Unified Offshore Systems Philosophy
+3. Zero‑Fuel Maritime Transport – S.K.O.O.G. Harvester
 
-Both Skoog Buoy and S.K.O.O.G. share core engineering principles:
+The S.K.O.O.G. Harvester is a wave‑powered propulsion system enabling:
 
-- Passive exploitation of natural gradients  
-- Deep-sea thermal stability  
-- Solar thermodynamics  
-- Wave-powered circulation  
-- Minimal mechanical complexity  
-- Long-life corrosion-resistant materials  
-- Modular scalability  
+- long‑distance transport  
+- zero emissions  
+- no fuel dependency  
+- minimal maintenance  
 
-The architecture is infrastructure-based rather than product-based.
+It uses oscillating wave energy to generate continuous forward thrust, enabling sustainable maritime logistics in low‑infrastructure regions.
 
-Modules can be:
-
-- Clustered for large-scale freshwater production  
-- Integrated with offshore energy platforms  
-- Combined with autonomous cargo systems  
-- Deployed regionally for humanitarian resilience  
+Full technical documentation (open source):  
+https://zenodo.org/records/17552757
 
 ---
 
-# 5. Applications
+Open‑Source Mission
 
-## Primary – Water Stability
+All S.K.O.O.G. systems are released under CC‑BY 4.0 and published with DOI for permanent global access.  
+The goal is to provide scalable, infrastructure‑independent solutions for water, survival protein, and transport — freely available to all.
 
-- Freshwater security for vulnerable coastal populations  
-- Replacement of fragile desalination infrastructure  
-- Climate-resilient coastal systems  
-- Disaster-preparedness water supply  
-- Island autonomy  
+More information:  
+https://www.skoogmarine.com
 
-## Energy & Maritime
-
-- Zero-emission cargo transport  
-- Autonomous freight corridors  
-- Energy-positive ocean logistics  
-
-## Sustainable Development
-
-- Green hydrogen production (ultrapure feedwater)  
-- Regenerative coastal agriculture  
-- Eco-tourism without emissions or noise  
-- Offshore industrial freshwater supply  
-
----
-
-# Documentation & Reference
-
-Freshwater Infrastructure (SCSL):  
-https://doi.org/10.5281/zenodo.18483339  
-
-Maritime Architecture (S.K.O.O.G.):  
-https://zenodo.org/records/17552757  
-
-Official Project Site:  
-https://www.skoogmarine.com  
-
-Initiative: Skoog Open Marine Technology (SOMT)  
-Project Lead: Göran Skoog
+> *Innovating for a hunger‑free and thirst‑free world.  
+> Water from air. Ocean as food. No electricity. No brine.  
+> Always open source.*
