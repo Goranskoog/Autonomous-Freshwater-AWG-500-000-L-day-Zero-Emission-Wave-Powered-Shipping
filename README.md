@@ -17,7 +17,7 @@ All systems are electricity‑free, fuel‑free, and designed for low‑infrastr
 
 1. Freshwater Security – Skoog Buoy
 
-Skoog Buoy is a mechanical Atmospheric Water Generator (AWG) concept capable of producing large volumes of freshwater using:
+Skoog Buoy is a mechanical Atmospheric Water Generator (AWG) concept capable of producing large volumes of freshwater (up to 500.000 l/day) using:
 
 - deep‑ocean cooling  
 - solar‑driven convection  
